@@ -8,7 +8,7 @@ Yeh ek React Native app hai jisme user:
 - Product search kar sakta hai
 
 ### Tech Used:
-- React Native (Expo)
+- React Native
 - AsyncStorage
 - React Navigation
 
